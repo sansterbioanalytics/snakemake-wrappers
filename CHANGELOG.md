@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.26.1](https://www.github.com/sansterbioanalytics/snakemake-wrappers/compare/v1.26.0...v1.26.1) (2025-02-07)
+
+
+### Performance Improvements
+
+* resolve conflict and adjust force_large to param ([decd1a5](https://www.github.com/sansterbioanalytics/snakemake-wrappers/commit/decd1a512804fc9aa186ed088a9b0fd3ef4f7e16))
+
 ## [1.26.0](https://www.github.com/sansterbioanalytics/snakemake-wrappers/compare/v1.25.0...v1.26.0) (2023-04-17)
 
 
